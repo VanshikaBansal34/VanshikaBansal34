@@ -2,7 +2,7 @@
 
 <!--
 **VanshikaBansal34/VanshikaBansal34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![LeetCode Streak](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![LeetCode Streak](https://leetcard.jacoblin.cool/_Vanshika_Bansal_?theme=dark)
