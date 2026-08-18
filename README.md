@@ -14,12 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-📊 LeetCode Performance & Streak
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/_Vanshika_Bansal_?theme=nord&font=source_code_pro&ext=activity" alt="LeetCode Activity & Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-leetcode-stats.vercel.app/api?username=_Vanshika_Bansal_&theme=nord&border_radius=10" alt="LeetCode Stats" />
-</p>
